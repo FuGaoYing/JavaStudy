@@ -11,10 +11,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.List;
 
 /**
- * @Author: FGY
- * @Description:
- * @Date: Created in 2023/3/7 18:25
- * @Version:
+ * Author: FGY
+ * Description:
+ * Date: Created in 2023/3/7 18:25
+ * Version:
  */
 @SpringBootTest
 @RunWith(SpringRunner.class)

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -26,100 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="请求测试">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava3_rxjava_3_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_2_0_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_river_2_0_11_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_spring_boot_starter_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_spring_data_27_3_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/mybatisPlusTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/MybatisPlusTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/config/MyMetaObjectHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/config/TransactionConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/mapper/xml/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/test/java/com/my/study/GeneratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatisPlusTest/src/test/java/com/my/study/MybatisPlusTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/redission-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/src/main/java/com/my/study/redissiontest/config/FastJsonRedisSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/src/main/java/com/my/study/redissiontest/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/src/main/java/com/my/study/redissiontest/controller/RedissionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redission-test/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_13_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_7_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/rabbitMqTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/rabbitMqTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/controller/RabbitMqTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/controller/RabbitMqTestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,14 +39,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
@@ -148,17 +63,21 @@
     <option name="onto" value="36c4282defe7b1fd84e5c580a840d352babd92aa" />
   </component>
   <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/FuGaoYing/JavaStudy.git" />
-      </set>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9081e9dd-8d54-43eb-b85d-5c595fd311f6" />
+        <option name="url" value="https://github.com/FuGaoYing/JavaStudy.git" />
+      </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\java\apache-maven-3.6.3\maven-repo" />
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -169,24 +88,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatisPlusTest/src/main/java/com/my/study" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.15546875" />
-    <property name="project.structure.side.proportion" value="0.29162833" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "D:/idea_workspace/yygh_parent",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDK",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "profiler.calltree.filter",
+    "spring.configuration.checksum": "5432dfe7ac2b73c16ee497b07faf4432"
+  }
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -410,11 +328,23 @@
       <visibility group="Run configurations" flag="true" />
       <visibility group="npm" flag="true" />
       <visibility group="yarn" flag="true" />
+      <visibility group="最近的项目" flag="true" />
+      <visibility group="运行配置" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="JUnit.MybatisPlusTest.test2">
-    <configuration name="generated-requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="3" runType="运行单个请求">
-      <method v="2" />
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.my.study.Test" />
+      <module name="mybatisPlusTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MybatisPlusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatisPlusTest" />
@@ -465,13 +395,20 @@
     </configuration>
     <configuration name="MybatisPlusTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="mybatisPlusTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.study.MybatisPlusTestApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.my.study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.study.MybatisPlusTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqMyTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitMqTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.study.RabbitmqMyTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -484,23 +421,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.RedissionTestApplication" />
-      <item itemvalue="Spring Boot.MybatisPlusTestApplication" />
       <item itemvalue="JUnit.MybatisPlusTest.test1" />
       <item itemvalue="JUnit.MybatisPlusTest" />
-      <item itemvalue="HTTP 请求.generated-requests#3" />
       <item itemvalue="JUnit.MybatisPlusTest.test2" />
+      <item itemvalue="Spring Boot.RedissionTestApplication" />
+      <item itemvalue="Spring Boot.RabbitmqMyTest" />
+      <item itemvalue="Spring Boot.MybatisPlusTestApplication" />
+      <item itemvalue="应用程序.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MybatisPlusTest.test2" />
+        <item itemvalue="应用程序.Test" />
         <item itemvalue="Spring Boot.MybatisPlusTestApplication" />
+        <item itemvalue="JUnit.MybatisPlusTest.test2" />
         <item itemvalue="JUnit.MybatisPlusTest.test1" />
-        <item itemvalue="HTTP 请求.generated-requests#3" />
         <item itemvalue="JUnit.MybatisPlusTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\65703\AppData\Roaming\Subversion</configuration>
   </component>
@@ -515,11 +454,35 @@
       <workItem from="1678097361970" duration="1192000" />
       <workItem from="1678098581530" duration="16000" />
       <workItem from="1678173653122" duration="26599000" />
+      <workItem from="1678252438694" duration="1986000" />
+      <workItem from="1678254533594" duration="2278000" />
+      <workItem from="1678257751829" duration="757000" />
+      <workItem from="1678261708918" duration="186000" />
+      <workItem from="1678262343395" duration="224000" />
+      <workItem from="1678262586328" duration="649000" />
+      <workItem from="1678263251595" duration="456000" />
+      <workItem from="1678264085048" duration="1416000" />
+      <workItem from="1678266685842" duration="786000" />
+      <workItem from="1678267501310" duration="67000" />
+      <workItem from="1678269257247" duration="1868000" />
+      <workItem from="1678278372341" duration="3347000" />
+      <workItem from="1678285293936" duration="661000" />
+      <workItem from="1678285974749" duration="69000" />
+      <workItem from="1678286064826" duration="124000" />
+      <workItem from="1678338889932" duration="3925000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1678342697427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678342697427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -541,143 +504,43 @@
             </State>
           </value>
         </entry>
+        <entry key="ebadc3f2-3a0a-4384-bdf1-817d84991de7">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/ipccworkspace/JavaStudy/redission-test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ebadc3f2-3a0a-4384-bdf1-817d84991de7" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="219" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1678177093885">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="219" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1678177093885" />
-    <state x="527" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1678201359994">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="527" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1678201359994" />
-    <state x="356" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1678174260350">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="356" y="48" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1678174260350" />
-    <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1678098485287">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1678098485287" />
-    <state x="433" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1678175243505">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="433" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1678175243505" />
-    <state x="464" y="65" key="#xdebugger.evaluate" timestamp="1678192985646">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="464" y="65" key="#xdebugger.evaluate/0.0.1536.864@0.0.1536.864" timestamp="1678192985646" />
-    <state x="121" y="0" key="#项目结构" timestamp="1678184650446">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="121" y="0" key="#项目结构/0.0.1536.864@0.0.1536.864" timestamp="1678184650446" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1678102716938">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1678102716938" />
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1678176750035">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1678176750035" />
-    <state x="496" y="111" key="FileChooserDialogImpl" timestamp="1678188494951">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="496" y="111" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1678188494951" />
-    <state x="136" y="39" key="Git.Interactive.Rebase.Dialog" timestamp="1678102746163">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="136" y="39" key="Git.Interactive.Rebase.Dialog/0.0.1536.864@0.0.1536.864" timestamp="1678102746163" />
-    <state x="549" y="312" key="Github.CreateGistDialog" timestamp="1678193578335">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="549" y="312" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1678193578335" />
-    <state width="1481" height="415" key="GridCell.Tab.0.bottom" timestamp="1678201701464">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678201701464" />
-    <state width="1481" height="415" key="GridCell.Tab.0.center" timestamp="1678201701464">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1678201701464" />
-    <state width="1481" height="415" key="GridCell.Tab.0.left" timestamp="1678201701464">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1678201701464" />
-    <state width="1481" height="415" key="GridCell.Tab.0.right" timestamp="1678201701464">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1678201701464" />
-    <state width="1481" height="415" key="GridCell.Tab.1.bottom" timestamp="1678201674148">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678201674148" />
-    <state width="1481" height="415" key="GridCell.Tab.1.center" timestamp="1678201674147">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1678201674147" />
-    <state width="1481" height="415" key="GridCell.Tab.1.left" timestamp="1678201674147">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1678201674147" />
-    <state width="1481" height="415" key="GridCell.Tab.1.right" timestamp="1678201674147">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="415" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1678201674147" />
-    <state width="1481" height="264" key="GridCell.Tab.2.bottom" timestamp="1678199461644">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="264" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678199461644" />
-    <state width="1481" height="264" key="GridCell.Tab.2.center" timestamp="1678199461644">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="264" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1678199461644" />
-    <state width="1481" height="264" key="GridCell.Tab.2.left" timestamp="1678199461644">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="264" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1678199461644" />
-    <state width="1481" height="264" key="GridCell.Tab.2.right" timestamp="1678199461644">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="264" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1678199461644" />
-    <state x="412" y="71" key="NewModule_or_Project.wizard" timestamp="1678184358770">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="412" y="71" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1678184358770" />
-    <state x="153" y="0" key="SettingsEditor" timestamp="1678201404975">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1678201404975" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1678102761978">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1678102761978" />
-    <state x="543" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1678202458307">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="543" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1678202458307" />
-    <state width="714" height="418" key="documentation.popup.size" timestamp="1678202271772">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="714" height="418" key="documentation.popup.size/0.0.1536.864@0.0.1536.864" timestamp="1678202271772" />
-    <state x="441" y="176" key="git4idea.merge.GitPullDialog" timestamp="1678102756842">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="441" y="176" key="git4idea.merge.GitPullDialog/0.0.1536.864@0.0.1536.864" timestamp="1678102756842" />
-    <state x="260" y="21" key="new project wizard" timestamp="1678184415366">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="260" y="21" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1678184415366" />
-    <state x="341" y="193" key="run.anything.popup" timestamp="1678197548831">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="341" y="193" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1678197548831" />
-    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup" timestamp="1678183093956">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="347" y="0" width="840" height="862" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1678183093956" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mybatis测试" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,5 +557,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
