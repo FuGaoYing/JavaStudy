@@ -19,6 +19,7 @@
         <aliyun-spring-boot.version>1.0.0</aliyun-spring-boot.version>
         <spring-boot.version>2.3.7.RELEASE</spring-boot.version>
         <rabbit-mq.version>2.4.5</rabbit-mq.version>
+        <fast-json.version>2.0.4</fast-json.version>
     </properties>
 
     <dependencyManagement>
@@ -44,6 +45,11 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-starter-amqp</artifactId>
                 <version>${spring-boot.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.fastjson2</groupId>
+                <artifactId>fastjson2</artifactId>
+                <version>${fast-json.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
