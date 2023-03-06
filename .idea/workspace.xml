@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="已捆绑(Maven 3)" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MdVGIlOko3eDAhNtPjbpRSSRnG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.15546875" />
+    <property name="project.structure.side.proportion" value="0.29162833" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RabbitmqMyTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rabbitMqTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.study.RabbitmqMyTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RabbitmqMyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\65703\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="" />
+      <created>1678097348349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678097348349</updated>
+      <workItem from="1678097351716" duration="2000" />
+      <workItem from="1678097361970" duration="1192000" />
+      <workItem from="1678098581530" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1678098485287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1678098485287" />
+    <state x="121" y="0" key="#项目结构" timestamp="1678098298749">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="121" y="0" key="#项目结构/0.0.1536.864@0.0.1536.864" timestamp="1678098298749" />
+    <state x="496" y="129" key="FileChooserDialogImpl" timestamp="1678097794884">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1678097794884" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1678098597015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1678098597015" />
+    <state x="188" y="15" key="new project wizard" timestamp="1678097500788">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="188" y="15" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1678097500788" />
+  </component>
+</project>
