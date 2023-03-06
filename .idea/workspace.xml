@@ -26,60 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="请求测试">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/controller/RabbitMqTestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/rabbitMqTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/rabbitMqTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/producer/MyProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/producer/MyProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rabbitMqTest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,15 +38,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Rebase.Settings">
-    <option name="ONTO" value="refs/heads/master" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitRewordedCommitMessages">
-    <option name="onto" value="36c4282defe7b1fd84e5c580a840d352babd92aa" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -130,121 +68,15 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.15546875" />
     <property name="project.structure.side.proportion" value="0.29162833" />
-    <property name="rest.client.default.execution.environment" value="test" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RestClientSettings">
-    <option name="REQUEST_HISTORY">
-      <list>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="https://httpbin.org/post" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="haveTextToSend" value="true" />
-          <option name="textToSend" value="{&#10;  &quot;id&quot;: 999,&#10;  &quot;value&quot;: &quot;content&quot;&#10;}" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/mq/test1" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="{" />
-                <option name="value" value="" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="  &quot;id&quot;" />
-                <option name="value" value="999" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="}" />
-                <option name="value" value="" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/mq/test1" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/mq/test1" />
-          <option name="urlPath" value="" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="{" />
-                <option name="value" value="" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="  &quot;id&quot;" />
-                <option name="value" value="999," />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="  &quot;value&quot;" />
-                <option name="value" value="&quot;content&quot;" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="}" />
-                <option name="value" value="" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.RabbitmqMyTest">
-    <configuration name="post-requests#1 (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" runType="运行单个请求">
-      <method v="2" />
-    </configuration>
-    <configuration name="post-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" runType="运行单个请求">
-      <method v="2" />
-    </configuration>
-    <configuration name="rest-api_2#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" runType="运行单个请求">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="RabbitmqMyTest" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="rabbitMqTest" />
       <extension name="coverage">
@@ -261,9 +93,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.RabbitmqMyTest" />
-        <item itemvalue="HTTP 请求.post-requests#1 (1)" />
-        <item itemvalue="HTTP 请求.post-requests#1" />
-        <item itemvalue="HTTP 请求.rest-api_2#1" />
       </list>
     </recent_temporary>
   </component>
@@ -280,23 +109,7 @@
       <workItem from="1678097351716" duration="2000" />
       <workItem from="1678097361970" duration="1192000" />
       <workItem from="1678098581530" duration="16000" />
-      <workItem from="1678099827747" duration="1908000" />
     </task>
-    <task id="LOCAL-00001" summary="a">
-      <created>1678099968245</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678099968245</updated>
-    </task>
-    <task id="LOCAL-00002" summary="a">
-      <created>1678100111168</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1678100111168</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,34 +120,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="626" y="267" key="#Notifications" timestamp="1678100130655">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="626" y="267" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1678100130655" />
     <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1678098485287">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -343,66 +136,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="121" y="0" key="#项目结构/0.0.1536.864@0.0.1536.864" timestamp="1678098298749" />
-    <state x="496" y="129" key="FileChooserDialogImpl" timestamp="1678100278183">
+    <state x="496" y="129" key="FileChooserDialogImpl" timestamp="1678097794884">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1678100278183" />
-    <state x="136" y="39" key="Git.Interactive.Rebase.Dialog" timestamp="1678100016052">
+    <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1678097794884" />
+    <state width="1481" height="326" key="GridCell.Tab.0.bottom" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="136" y="39" key="Git.Interactive.Rebase.Dialog/0.0.1536.864@0.0.1536.864" timestamp="1678100016052" />
-    <state width="1481" height="326" key="GridCell.Tab.0.bottom" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.center" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.0.center" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.left" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.0.left" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.right" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.0.right" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.bottom" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.1.bottom" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.center" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.1.center" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.left" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.1.left" timestamp="1678101657230">
+    <state width="1481" height="326" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.right" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state width="1481" height="326" key="GridCell.Tab.1.right" timestamp="1678101657230">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1678101657230" />
-    <state x="147" y="69" key="MergeDialog" timestamp="1678099895014">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="147" y="69" key="MergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1678099895014" />
+    <state width="1481" height="326" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
     <state x="153" y="0" key="SettingsEditor" timestamp="1678098597015">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="153" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1678098597015" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1678100117405">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1678100117405" />
-    <state x="543" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1678100024396">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="543" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1678100024396" />
-    <state x="506" y="266" width="718" height="331" key="git4idea.rebase.GitRebaseDialog" timestamp="1678100052441">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="506" y="266" width="718" height="331" key="git4idea.rebase.GitRebaseDialog/0.0.1536.864@0.0.1536.864" timestamp="1678100052441" />
     <state x="188" y="15" key="new project wizard" timestamp="1678097500788">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
