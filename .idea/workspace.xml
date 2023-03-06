@@ -26,10 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitMqTest/src/main/java/com/my/study/config/RabbitMqConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd69c12d-407a-4db4-8650-17064e3db52f" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +39,12 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/FuGaoYing/JavaStudy.git" />
+      </set>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -66,9 +62,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -109,7 +108,7 @@
       <updated>1678097348349</updated>
       <workItem from="1678097351716" duration="2000" />
       <workItem from="1678097361970" duration="1192000" />
-      <workItem from="1678098581530" duration="316000" />
+      <workItem from="1678098581530" duration="16000" />
     </task>
     <servers />
   </component>
@@ -121,23 +120,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="542" y="50" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1678098485287">
@@ -152,46 +140,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="496" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1678097794884" />
-    <state x="619" y="306" key="Github.ShareDialog" timestamp="1678098664497">
+    <state width="1481" height="326" key="GridCell.Tab.0.bottom" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="619" y="306" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1678098664497" />
-    <state x="385" y="61" key="Github.UntrackedFilesDialog" timestamp="1678098672847">
+    <state width="1481" height="326" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.center" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="385" y="61" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1678098672847" />
-    <state width="1481" height="326" key="GridCell.Tab.0.bottom" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.left" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.0.center" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.0.right" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.0.left" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.bottom" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.0.right" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.center" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.1.bottom" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.left" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.1.center" timestamp="1678098616315">
+    <state width="1481" height="326" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
+    <state width="1481" height="326" key="GridCell.Tab.1.right" timestamp="1678099702227">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.1.left" timestamp="1678098616315">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
-    <state width="1481" height="326" key="GridCell.Tab.1.right" timestamp="1678098616315">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1481" height="326" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1678098616315" />
+    <state width="1481" height="326" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1678099702227" />
     <state x="153" y="0" key="SettingsEditor" timestamp="1678098597015">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

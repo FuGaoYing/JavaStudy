@@ -6,6 +6,7 @@ import org.springframework.amqp.core.Message;
 import org.springframework.amqp.core.MessagePostProcessor;
 import org.springframework.amqp.rabbit.connection.CorrelationData;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.Resource;
 import java.util.UUID;
@@ -16,6 +17,7 @@ import java.util.UUID;
  * @Date: Created in 2023/3/6 18:36
  * @Version:
  */
+@Component
 public class MyProducer {
 
     @Resource
