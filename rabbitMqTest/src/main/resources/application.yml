@@ -2,4 +2,17 @@ server:
   port: 8080
 spring:
   application:
-    name: rabbitMq-test
+    name: rabbitMqTest
+  rabbitmq:
+    host: 82.157.139.239
+    port: 5672
+    password: admin
+    username: admin
+    publisher-returns: true   # 开启发布者回退模式
+    publisher-confirm-type: correlated  #开启确认消息到交换机
+    listener:
+      simple:
+        # 开启消费者手动确认机制  manual 手动确认 none 自动确认
+        # auto 无异常自动确认 ImmediateAcknowledgeAmqpException 异常，则视为成功消费，确认该消息
+        # AmqpRejectAndDontRequeueException异常的时候，则消息会被拒绝 其他的异常，则消息会被拒绝
+        acknowledge-mode: manual
