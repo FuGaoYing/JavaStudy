@@ -2,16 +2,24 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rabbitMqTest" />
+        <module name="redission-test" />
+        <module name="mybatisPlusTest" />
+        <module name="redissionTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JavaStudy" target="1.8" />
+      <module name="mybatisPlusTest" target="1.8" />
       <module name="rabbitMqTest" target="1.8" />
+      <module name="rabbitMqTest (1)" target="1.8" />
+      <module name="redission-test" target="1.8" />
+      <module name="redissionTest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
